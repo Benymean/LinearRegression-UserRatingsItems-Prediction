@@ -16,7 +16,10 @@ This analysis aims to predict users' ratings for items using linear regression m
 
 ## Importing the Cleaned E-commerce Dataset
 
-The dataset, named 'cleaned_ecommerce_dataset.csv', is imported to provide a foundational dataset for our analysis.
+The dataset, named 'cleaned_ecommerce_dataset.csv', is imported to provide a foundational dataset for our analysis. Which is the cleaned and prepared version of The 'E-commerce Dataset.csv'.
+- Removed duplicates
+- Filtered unwanted outliers 
+- Handled missing data
 
 ## Dataset Exploration
 
